@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ## 😄 Cool Stats
 
-![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragavkumarv&show_icons=true&theme=radical)
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ragavkumarv&theme=radical)
 
