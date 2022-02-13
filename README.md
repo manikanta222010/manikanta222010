@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 
 ## 😄 Cool Stats
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisvillegas&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ragavkumarv&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manikanta222010&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragavkumarv&layout=compact&theme=radical&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta222010&layout=compact&theme=radical&langs_count=6)
 
 <!-- <h3>Where to find me</h3> -->
 <!-- <p> -->
