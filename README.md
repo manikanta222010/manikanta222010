@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Snake eating my contribution graph
-![snake gif](https://github.com/manikanta222010/manikanta222010/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/manikanta222010/manikanta222010/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 </p>
 
-<img alt="contribution" src="https://github.com/ragavkumarv/ragavkumarv/blob/output/github-contribution-grid-snake.svg" />
+<img alt="contribution" src="https://github.com/manikanta222010/manikanta222010/blob/output/github-contribution-grid-snake.svg" />
 
 ## 😄 Cool Stats
 
