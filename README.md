@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Snake eating my contribution graph
-![snake gif](https://github.com/manikanta222010/manikanta222010/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
