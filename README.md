@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 
 <h1><img src="https://slackmojis.com/emojis/32756-charmander_shiny/download" width="30"/> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<p>Welcome to my page! </br> I'm Manikanta Srinivas, Fullstack developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Hyderabad, Telangana.</b> 
-<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning and teaching web development.</p>
+<p>Welcome to my page! </br> HEY! I’m Manikanta Srinivas Yedla, Final year Computer Science student from  <b>ICFAI University, Hyderabad, Telangana.</b>   <b>Hyderabad, Telangana.</b> <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/>
+<br/>I am a Full stack developer with the right mix of Functional programming and expertise in Data Structures and Algorithms.</p>
+
 
 ## ⚡ Things I code with
 
