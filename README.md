@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <img alt="contribution" src="https://github.com/manikanta222010/manikanta222010/blob/output/github-contribution-grid-snake.svg" />
 
 <img align="right" aly="wp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta222010&theme=radical&langs_count=6" width="300" />
-<img align="left" alt="wp" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="520" />
+<img align="left" alt="wp" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
 
 
 
