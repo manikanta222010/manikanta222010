@@ -100,5 +100,4 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/manikanta222010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manikanta222010" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/manikanta-yedla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
 <a href="https://codepen.io/manikanta22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manikanta222010" height="30" width="40" /></a>
-<a href="https://www.instagram.com/maniii_kanta_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manikanta" height="30" width="40" /></a>
 </p>
