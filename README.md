@@ -36,8 +36,8 @@ Here are some ideas to get you started:
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
   <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
@@ -66,6 +66,15 @@ Here are some ideas to get you started:
 ## 😄 Cool Stats
 
 ![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=radical)
+![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=dark)
+![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=merko)
+![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=gruvbox)
+![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=tokyonight)
+![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=onedark)
+![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=cobalt)
+![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=synthwave)
+![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=highcontrast)
+![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=dracula)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manikanta222010&theme=radical)
 
@@ -80,8 +89,8 @@ Here are some ideas to get you started:
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<a href="https://twitter.com/manikanta222010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragavkumarv" height="30" width="40" /></a>
+<a href="https://twitter.com/manikanta222010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manikanta222010" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/manikanta-yedla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
-<a href="https://codepen.io/manikanta22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ragavkumarv" height="30" width="40" /></a>
+<a href="https://codepen.io/manikanta22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manikanta222010" height="30" width="40" /></a>
 <a href="https://www.instagram.com/maniii_kanta_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manikanta" height="30" width="40" /></a>
 </p>
