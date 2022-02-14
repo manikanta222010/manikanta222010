@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://slackmojis.com/emojis/5276-pig-hello-sitting/download" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://slackmojis.com/emojis/5275-pig-hello-front/download" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://slackmojis.com/emojis/5274-pig-hello-door/download" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://slackmojis.com/emojis/679-charmander_dancing/download" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://slackmojis.com/emojis/32756-charmander_shiny/download" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Manikanta Srinivas, Fullstack developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Hyderabad, Telangana.</b> 
 <br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning and teaching web development.</p>
